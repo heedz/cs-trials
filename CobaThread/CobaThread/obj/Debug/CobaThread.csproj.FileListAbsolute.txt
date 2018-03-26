@@ -1,0 +1,7 @@
+D:\Heed\Training\Coba C#\CobaThread\CobaThread\bin\Debug\CobaThread.exe.config
+D:\Heed\Training\Coba C#\CobaThread\CobaThread\bin\Debug\CobaThread.exe
+D:\Heed\Training\Coba C#\CobaThread\CobaThread\bin\Debug\CobaThread.pdb
+D:\Heed\Training\Coba C#\CobaThread\CobaThread\obj\Debug\CobaThread.csproj.CoreCompileInputs.cache
+D:\Heed\Training\Coba C#\CobaThread\CobaThread\obj\Debug\CobaThread.exe
+D:\Heed\Training\Coba C#\CobaThread\CobaThread\obj\Debug\CobaThread.pdb
+D:\Heed\Training\Coba C#\CobaThread\CobaThread\obj\Debug\CobaThread.csprojResolveAssemblyReference.cache

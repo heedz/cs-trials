@@ -1,0 +1,7 @@
+D:\Heed\Training\Coba C#\Lamp\Lamp\bin\Debug\Lamp.exe.config
+D:\Heed\Training\Coba C#\Lamp\Lamp\bin\Debug\Lamp.exe
+D:\Heed\Training\Coba C#\Lamp\Lamp\bin\Debug\Lamp.pdb
+D:\Heed\Training\Coba C#\Lamp\Lamp\obj\Debug\Lamp.csprojResolveAssemblyReference.cache
+D:\Heed\Training\Coba C#\Lamp\Lamp\obj\Debug\Lamp.csproj.CoreCompileInputs.cache
+D:\Heed\Training\Coba C#\Lamp\Lamp\obj\Debug\Lamp.exe
+D:\Heed\Training\Coba C#\Lamp\Lamp\obj\Debug\Lamp.pdb
